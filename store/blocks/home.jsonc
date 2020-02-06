@@ -105,7 +105,6 @@
       "maxWidth": "100%"
     }
   },
-
   
   "image#mobile": {
     "props": {
@@ -125,7 +124,5 @@
       "textAlignment": "CENTER"
     }
   }
-
-
 
 }
